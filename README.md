@@ -1,6 +1,6 @@
 # Nome: Leonardo
 Atividade inicial da matéria de Gestão da Configuração
-Alteração 6
+Alteração 7
 
 
 Editando o arquivo saymon.
